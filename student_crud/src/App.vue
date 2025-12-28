@@ -7,7 +7,7 @@
   <v-app>
     <Navbar/>
     <v-main>
-        <routerview/>
+        <router-view/>
     </v-main>
 
   </v-app>
